@@ -16,7 +16,7 @@
 </p>
 
 </br>
-<h3 align="center"><b>🛠 Study Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Study.. ing 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp 
