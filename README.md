@@ -26,4 +26,10 @@
 
 </br>
 
+---
+
+<div align="center">
+
 ![Hoya11's github stats](https://github-readme-stats.vercel.app/api?username=Hoya11&show_icons=true)
+  
+</div>
