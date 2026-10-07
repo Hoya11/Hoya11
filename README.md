@@ -1,3 +1,2 @@
-# Hoya
 
 Backend Engineer
